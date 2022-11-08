@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego Alejandro Mendoza</h1>
 <h3 align="center">I'm 26 years old, i'm a passionate full stack developer and Industrial Engineer from Colombia</h3>
 
-- 📄 Know about my experiences 
 - **I worked more than a year as an engineer but chose to continue studying to be a fullstack developer in order to get better job opportunities**
 
 - 🌱 I’m currently learning **typescript, Sass and others technologies**
 
-- 🏫 I studied at **the henry programming academy**
+- 🏫 I studied at **SoyHenry programming academy from argentina**
 
-- ⚡ My hobbies **i like play soccer, cycling and play videogames**
+- ⚡ My hobbies **I like play soccer, cycling and play videogames**
 
 - 📫 How to reach me **diego_121197@hotmail.es**
 

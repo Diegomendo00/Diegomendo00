@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Diego Alejandro Mendoza, i'm 26 years old</h1>
-<h3 align="center">A passionate full stack developer and Industrial Engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Diego Alejandro Mendoza</h1>
+<h3 align="center">I'm 26 years old, i'm a passionate full stack developer and Industrial Engineer from Colombia</h3>
 
-- 📄 Know about my experiences **I worked more than a year as an engineer but chose to continue studying to be a fullstack developer in order to get better job opportunities**
+- 📄 Know about my experiences 
+- **I worked more than a year as an engineer but chose to continue studying to be a fullstack developer in order to get better job opportunities**
 
 - 🌱 I’m currently learning **typescript, Sass and others technologies**
 
